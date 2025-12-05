@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "再教育",
+  "base_artist": "Neru",
+  "createdAt": "2025-12-05T16:35:30.195960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "再教育 feat.鏡音リン、鏡音レン",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/01_再教育_feat.鏡音リン、鏡音レン_Neru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "Neru feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/02_再教育_Neru_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "再教育 feat.ぐるたみん",
+      "artist": "おさむらいさん",
+      "has_synced": false,
+      "path": "select/03_再教育_feat.ぐるたみん_おさむらいさん.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/04_再教育_ぐるたみん.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "再教育 feat.いかさん",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/05_再教育_feat.いかさん_Neru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "Neru feat. いかさん",
+      "has_synced": true,
+      "path": "select/06_再教育_Neru_feat._いかさん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "Neru; 鏡音リン; 鏡音レン",
+      "has_synced": true,
+      "path": "select/07_再教育_Neru;_鏡音リン;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "Neru; いかさん",
+      "has_synced": true,
+      "path": "select/08_再教育_Neru;_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "Neru feat. 鏡音リン、鏡音レン",
+      "has_synced": true,
+      "path": "select/09_再教育_Neru_feat._鏡音リン、鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "まふまふ",
+      "has_synced": true,
+      "path": "select/10_再教育_まふまふ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "Neru feat. 鏡音リン、鏡音レン",
+      "has_synced": true,
+      "path": "select/11_再教育_Neru_feat._鏡音リン、鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "再教育(カバー)",
+      "artist": "松下",
+      "has_synced": false,
+      "path": "select/12_再教育(カバー)_松下.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "再教育 (feat. Kagamine Rin、Kagamine Len)",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/13_再教育_(feat._Kagamine_Rin、Kagamine_Len)_Neru.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "+α/あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/14_再教育_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "再教育 feat. ぐるたみん",
+      "artist": "おさむらいさん",
+      "has_synced": false,
+      "path": "select/15_再教育_feat._ぐるたみん_おさむらいさん.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "再教育",
+      "artist": "豊永利行 / 佐藤拓也",
+      "has_synced": false,
+      "path": "select/16_再教育_豊永利行___佐藤拓也.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "再教育",
+      "artist": "Neru Feat. 鏡音リン・レン",
+      "has_synced": false,
+      "path": "select/pl_01_再教育_Neru_Feat._鏡音リン・レン.txt"
+    }
+  ]
+}
